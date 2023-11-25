@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>notepad</title>
+</head>
+<body>
+note your important things
+</body>
+</html>
