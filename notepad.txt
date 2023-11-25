@@ -2,7 +2,7 @@
 <head>
 <title>notepad</title>
 </head>
-<body>
+<body> 
 note your important things
 </body>
 </html>
